@@ -25,13 +25,15 @@ wget --no-check-certificate -O install.sh https://raw.githubusercontent.com/bigf
 ```
 
 > 注意事项：
->> 1. 记住填写的 应用名称 建议写：bigfang 
+>> 1. 记住填写的 应用名称 建议写：bigfang (就是你在IBMcloud中設置的應用名稱）
 >> 2. 内存大小选择256m
 >> 3. 一键安装完成后 保存生成VMESS链接
 
 ##### 1.3. 客户端配置
 
 倒入vmess链接
+
+導入後修改地址為  freechina.us-south.cf.appdomain.cloud
 
 ### 2. 利用Github创建每周开关机一次任务
 
